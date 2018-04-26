@@ -1,0 +1,6 @@
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\20180425_Examen02_021088\20180425_Examen02_021088\bin\Debug\20180425_Examen02_021088.exe.config
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\20180425_Examen02_021088\20180425_Examen02_021088\bin\Debug\20180425_Examen02_021088.exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\20180425_Examen02_021088\20180425_Examen02_021088\bin\Debug\20180425_Examen02_021088.pdb
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\20180425_Examen02_021088\20180425_Examen02_021088\obj\Debug\20180425_Examen02_021088.csprojResolveAssemblyReference.cache
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\20180425_Examen02_021088\20180425_Examen02_021088\obj\Debug\20180425_Examen02_021088.exe
+C:\Users\Brian\OneDrive\CETYS Drive\Programacion Objetos\20180425_Examen02_021088\20180425_Examen02_021088\obj\Debug\20180425_Examen02_021088.pdb
